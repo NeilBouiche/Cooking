@@ -1,0 +1,21 @@
+#hello{
+  text-align: center;
+  margin-top: 3%;
+}
+.img_profil{
+  border-radius: 100%;
+  margin-top: 5%;
+}
+.button{
+  background:#FFE2C3;
+  border-color: #FFE2C3;
+  color: grey;
+}
+.button:hover{
+  background-color : #FFE2C3;
+  border-color: #FFE2C3;
+  color: grey;
+}
+#enregistrer{
+  margin-top: 2%;
+}

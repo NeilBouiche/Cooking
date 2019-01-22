@@ -1,0 +1,21 @@
+.retour{
+  margin-top: 10%;
+  font-weight: bold;
+  margin-left: 10px;
+  color: black;
+}
+#arrow{
+    color: black;
+}
+#head{
+  margin: 10% auto;
+  color: RGB(255, 226, 195);
+}
+#formulaire{
+  align-items: center;
+}
+.button{
+  background-color: #FFE2C3;
+  color: grey;
+  margin-bottom: 30px;
+}

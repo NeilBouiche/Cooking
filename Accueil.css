@@ -1,0 +1,51 @@
+#carousel {
+    margin-top: 20%;
+}
+
+.titre {
+    font-family: "Avenir";
+    text-align: center;
+    margin-top:15%;
+    font-weight: bolder;
+}
+.recette_photo{
+    width: 100%;
+    margin-top: 50%;
+}
+.recette_titre{
+    width: 100%;
+    margin-top: 25%;
+    text-align: center;
+    text-decoration: underline;
+}
+.recette_description{
+    margin-top: 5%;
+}
+/*------------GROUPE 2---------------*/
+.recette_photo2{
+    width: 90%;
+    margin-top: 5%;
+}
+.recette_titre2{
+    width: 100%;
+    margin-top: 10%;
+    text-align: center;
+    text-decoration: underline;
+}
+.recette_description2{
+    margin-top: 5%
+}
+/*------------GROUPE 3---------------*/
+.recette_photo3{
+    width: 90%;
+    margin-top: 20%;
+}
+.recette_titre3{
+    width: 100%;
+    margin-top: 10%;
+    text-align: center;
+    text-decoration: underline;
+}
+.recette_description3{
+    margin-top: 5%
+}

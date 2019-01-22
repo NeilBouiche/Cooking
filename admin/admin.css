@@ -1,0 +1,28 @@
+body {
+    background: RGB(40, 44, 52);
+}
+.title {
+  color: white;
+  font-size: 60px;
+}
+a{
+  color: white;
+  font-size: 45px;
+}
+h2 {
+  color: white;
+  font-size: 45px;
+}
+.count{
+  color: white;
+  margin-top: 10%;
+  font-size: 25px;
+  text-decoration: underline;
+}
+.infos{
+  color: white;
+  align-items: center;
+}
+.pop{
+  text-align: center;
+}

@@ -1,0 +1,16 @@
+body {
+    font-family: "Avenir";
+}
+h1 {
+    padding-left: 3%;
+    margin-top: 20%;
+    text-align: center;
+}
+.separateur{
+    border: solid;
+    color: grey;
+    width: 100%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}

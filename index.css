@@ -1,0 +1,45 @@
+.logo {
+   height: 12%;
+   margin-top: 3%;
+   margin-left: 3%;
+   float: left;
+}
+
+.nav{
+    margin-top: 7%;
+}
+
+.nav-item{
+    margin-right: 1.5%;
+}
+
+.nav-link{
+    color: black;
+    font-family: "Avenir";
+    font-weight: 100;
+}
+
+ul.nav a:hover{
+     color: black;
+     text-decoration: underline;
+}
+
+.nav-link.compte{
+    color: #FFE2C3;
+    font-weight: bold;
+}
+
+.rsoc{
+    color: #FFE2C3;
+    margin-top: 4%;
+    margin-right: -2.5%;
+    margin-left: 5%;
+}
+footer {
+    background-color:#AFAFAF;
+    padding: 2%;
+    border-radius: 6px;
+}
+.search_button {
+    color: grey;
+}
